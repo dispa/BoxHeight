@@ -1,0 +1,41 @@
+
+body{
+	font-family: 'Arial', sans-serif;
+	margin:0px;
+}
+.item,
+.item2,
+.item3{
+	width: 25%;
+	float: left;
+	padding: 10px;
+	box-sizing:border-box;
+}
+.item3{
+	background:#eee;
+}
+.inner{
+	padding: 10px;
+	background: #cde;
+}
+.inner2a{
+	background: #fce;
+}
+.inner2a img{
+	width: 100%;
+	display: block;
+}
+.inner2b{
+	padding: 10px;
+	background: #efc;
+}
+.inner2c{
+	padding: 10px;
+	background: #edf;
+}
+.sep{
+	height: 25px;
+	margin-bottom:25px;
+	border-bottom: 1px solid #eee;
+	clear:both;
+}
